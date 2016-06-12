@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar_brown">#ffc0ae91</color>
+    <color name="bar_gray">#ff444444</color>
+    <color name="bgcolor">#fff2eadc</color>
+    <color name="bgcolor2">#ffbbbbbb</color>
+    <color name="buttontextcolor">#ff000000</color>
+    <color name="dialogTextColor">#ffeefeee</color>
+    <color name="dialog_brown">#ff867961</color>
+    <color name="mainTextColor">#ffffffff</color>
+    <color name="titleColor">#ffeeffee</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">DialogTemplate</string>
+    <string name="button1_label">Dialog Example 1</string>
+    <string name="button2_label">Dialog Example 2</string>
+    <string name="button3_label">Dialog Example 3</string>
+    <string name="button4_label">Dialog Example 4</string>
+    <string name="button5_label">Dialog Example 5</string>
+    <string name="create_item1">Task Choice 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message1">Task Activity 1 will be launched on this screen</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="DialogNoTitle" parent="@android:style/Theme.Dialog">
+
+        <item name="android:windowBackground">@color/bgcolor2</item>
+        <!-- <item name="android:colorBackground">@color/bgcolor</item> -->
+        <!-- <item name="android:textColor">@color/dialog_brown</item> -->
+        
+    </style>
+</resources>

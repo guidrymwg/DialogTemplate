@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/guidry/StudioProjects/DialogTemplate/app/build/intermediates/res/merged/debug/layout/taskactivity1.xml",
+        "source": "/home/guidry/StudioProjects/DialogTemplate/app/src/main/res/layout/taskactivity1.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/DialogTemplate/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/guidry/StudioProjects/DialogTemplate/app/src/main/res/layout/activity_main.xml"
+    }
+]

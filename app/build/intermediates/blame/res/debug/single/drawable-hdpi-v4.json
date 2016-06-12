@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/guidry/StudioProjects/DialogTemplate/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_icon.png",
+        "source": "/home/guidry/StudioProjects/DialogTemplate/app/src/main/res/drawable-hdpi/dialog_icon.png"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/DialogTemplate/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/guidry/StudioProjects/DialogTemplate/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
